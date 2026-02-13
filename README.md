@@ -38,7 +38,3 @@ Interface de l'application
 
 
   
-
-Gérer l’alignement et l’organisation des éléments UI
-
-Créer une application simple et structurée pour débutants
